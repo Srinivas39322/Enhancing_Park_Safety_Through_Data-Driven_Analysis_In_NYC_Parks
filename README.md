@@ -52,5 +52,3 @@ To analyze NYC park crime data to identify patterns, evaluate safety measures, a
    - Leverage seasonal crime patterns to optimize resource allocation during peak periods.
 
 ---
-
-This README provides a clear, structured summary of the project, making it ideal for stakeholders and collaborators. Let me know if you need further adjustments!
